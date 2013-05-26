@@ -1,0 +1,3195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>City</key>
+	<array>
+		<dict>
+			<key>COUN_ID</key>
+			<string>63000</string>
+			<key>COUN_NA</key>
+			<string>台北市</string>
+			<key>COUN_NAE</key>
+			<string>Taipei City</string>
+			<key>Town</key>
+			<array>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6300100</string>
+					<key>TOWN_NA</key>
+					<string>松山區</string>
+					<key>TOWN_NAE</key>
+					<string>Songshan District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6300200</string>
+					<key>TOWN_NA</key>
+					<string>信義區</string>
+					<key>TOWN_NAE</key>
+					<string>Xinyi District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6300300</string>
+					<key>TOWN_NA</key>
+					<string>大安區</string>
+					<key>TOWN_NAE</key>
+					<string>Da'an District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6300400</string>
+					<key>TOWN_NA</key>
+					<string>中山區</string>
+					<key>TOWN_NAE</key>
+					<string>Zhongshan District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6300500</string>
+					<key>TOWN_NA</key>
+					<string>中正區</string>
+					<key>TOWN_NAE</key>
+					<string>Zhongzheng District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6300600</string>
+					<key>TOWN_NA</key>
+					<string>大同區</string>
+					<key>TOWN_NAE</key>
+					<string>Datong District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6300700</string>
+					<key>TOWN_NA</key>
+					<string>萬華區</string>
+					<key>TOWN_NAE</key>
+					<string>Wanhua District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6300800</string>
+					<key>TOWN_NA</key>
+					<string>文山區</string>
+					<key>TOWN_NAE</key>
+					<string>Wenshan District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6300900</string>
+					<key>TOWN_NA</key>
+					<string>南港區</string>
+					<key>TOWN_NAE</key>
+					<string>Nangang District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6301000</string>
+					<key>TOWN_NA</key>
+					<string>內湖區</string>
+					<key>TOWN_NAE</key>
+					<string>Neihu District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6301100</string>
+					<key>TOWN_NA</key>
+					<string>士林區</string>
+					<key>TOWN_NAE</key>
+					<string>Shilin District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6301200</string>
+					<key>TOWN_NA</key>
+					<string>北投區</string>
+					<key>TOWN_NAE</key>
+					<string>Beitou District</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>COUN_ID</key>
+			<string>65000</string>
+			<key>COUN_NA</key>
+			<string>新北市</string>
+			<key>COUN_NAE</key>
+			<string>New Taipei City</string>
+			<key>Town</key>
+			<array>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500001</string>
+					<key>TOWN_NA</key>
+					<string>板橋區</string>
+					<key>TOWN_NAE</key>
+					<string>Banqiao District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500002</string>
+					<key>TOWN_NA</key>
+					<string>三重區</string>
+					<key>TOWN_NAE</key>
+					<string>Sanchong District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500003</string>
+					<key>TOWN_NA</key>
+					<string>中和區</string>
+					<key>TOWN_NAE</key>
+					<string>Zhonghe District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500004</string>
+					<key>TOWN_NA</key>
+					<string>永和區</string>
+					<key>TOWN_NAE</key>
+					<string>Yonghe District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500005</string>
+					<key>TOWN_NA</key>
+					<string>新莊區</string>
+					<key>TOWN_NAE</key>
+					<string>Xinzhuang District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500006</string>
+					<key>TOWN_NA</key>
+					<string>新店區</string>
+					<key>TOWN_NAE</key>
+					<string>Xindian District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500007</string>
+					<key>TOWN_NA</key>
+					<string>樹林區</string>
+					<key>TOWN_NAE</key>
+					<string>Shulin District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500008</string>
+					<key>TOWN_NA</key>
+					<string>鶯歌區</string>
+					<key>TOWN_NAE</key>
+					<string>Yingge District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500009</string>
+					<key>TOWN_NA</key>
+					<string>三峽區</string>
+					<key>TOWN_NAE</key>
+					<string>Sanxia District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500010</string>
+					<key>TOWN_NA</key>
+					<string>淡水區</string>
+					<key>TOWN_NAE</key>
+					<string>Tamsui District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500011</string>
+					<key>TOWN_NA</key>
+					<string>汐止區</string>
+					<key>TOWN_NAE</key>
+					<string>Xizhi District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500012</string>
+					<key>TOWN_NA</key>
+					<string>瑞芳區</string>
+					<key>TOWN_NAE</key>
+					<string>Ruifang District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500013</string>
+					<key>TOWN_NA</key>
+					<string>土城區</string>
+					<key>TOWN_NAE</key>
+					<string>Tucheng District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500014</string>
+					<key>TOWN_NA</key>
+					<string>蘆洲區</string>
+					<key>TOWN_NAE</key>
+					<string>Luzhou District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500015</string>
+					<key>TOWN_NA</key>
+					<string>五股區</string>
+					<key>TOWN_NAE</key>
+					<string>Wugu District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500016</string>
+					<key>TOWN_NA</key>
+					<string>泰山區</string>
+					<key>TOWN_NAE</key>
+					<string>Taishan District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500017</string>
+					<key>TOWN_NA</key>
+					<string>林口區</string>
+					<key>TOWN_NAE</key>
+					<string>Linkou District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500018</string>
+					<key>TOWN_NA</key>
+					<string>深坑區</string>
+					<key>TOWN_NAE</key>
+					<string>Shenkeng District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500019</string>
+					<key>TOWN_NA</key>
+					<string>石碇區</string>
+					<key>TOWN_NAE</key>
+					<string>Shiding District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500020</string>
+					<key>TOWN_NA</key>
+					<string>坪林區</string>
+					<key>TOWN_NAE</key>
+					<string>Pinglin District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500021</string>
+					<key>TOWN_NA</key>
+					<string>三芝區</string>
+					<key>TOWN_NAE</key>
+					<string>Sanzhi District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500022</string>
+					<key>TOWN_NA</key>
+					<string>石門區</string>
+					<key>TOWN_NAE</key>
+					<string>Shihmen District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500023</string>
+					<key>TOWN_NA</key>
+					<string>八里區</string>
+					<key>TOWN_NAE</key>
+					<string>Bali District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500024</string>
+					<key>TOWN_NA</key>
+					<string>平溪區</string>
+					<key>TOWN_NAE</key>
+					<string>Pingxi District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500025</string>
+					<key>TOWN_NA</key>
+					<string>雙溪區</string>
+					<key>TOWN_NAE</key>
+					<string>Shuangxi District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500026</string>
+					<key>TOWN_NA</key>
+					<string>貢寮區</string>
+					<key>TOWN_NAE</key>
+					<string>Gongliao District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500027</string>
+					<key>TOWN_NA</key>
+					<string>金山區</string>
+					<key>TOWN_NAE</key>
+					<string>Jinshan District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500028</string>
+					<key>TOWN_NA</key>
+					<string>萬里區</string>
+					<key>TOWN_NAE</key>
+					<string>Wanli District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6500029</string>
+					<key>TOWN_NA</key>
+					<string>烏來區</string>
+					<key>TOWN_NAE</key>
+					<string>Wulai District</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>COUN_ID</key>
+			<string>10002</string>
+			<key>COUN_NA</key>
+			<string>宜蘭縣</string>
+			<key>COUN_NAE</key>
+			<string>Yilan County</string>
+			<key>Town</key>
+			<array>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000201</string>
+					<key>TOWN_NA</key>
+					<string>宜蘭市</string>
+					<key>TOWN_NAE</key>
+					<string>Yilan City</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000202</string>
+					<key>TOWN_NA</key>
+					<string>羅東鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Luodong Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000203</string>
+					<key>TOWN_NA</key>
+					<string>蘇澳鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Su'ao Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000204</string>
+					<key>TOWN_NA</key>
+					<string>頭城鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Toucheng Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000205</string>
+					<key>TOWN_NA</key>
+					<string>礁溪鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Jiaoxi Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000206</string>
+					<key>TOWN_NA</key>
+					<string>壯圍鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Zhuangwei Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000207</string>
+					<key>TOWN_NA</key>
+					<string>員山鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Yuanshan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000208</string>
+					<key>TOWN_NA</key>
+					<string>冬山鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Dongshan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000209</string>
+					<key>TOWN_NA</key>
+					<string>五結鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Wujie Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000210</string>
+					<key>TOWN_NA</key>
+					<string>三星鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Sanxing Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000211</string>
+					<key>TOWN_NA</key>
+					<string>大同鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Datong Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000212</string>
+					<key>TOWN_NA</key>
+					<string>南澳鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Nan'ao Township</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>COUN_ID</key>
+			<string>10003</string>
+			<key>COUN_NA</key>
+			<string>桃園縣</string>
+			<key>COUN_NAE</key>
+			<string>Taoyuan County</string>
+			<key>Town</key>
+			<array>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000301</string>
+					<key>TOWN_NA</key>
+					<string>桃園市</string>
+					<key>TOWN_NAE</key>
+					<string>Taoyuan City</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000302</string>
+					<key>TOWN_NA</key>
+					<string>中壢市</string>
+					<key>TOWN_NAE</key>
+					<string>Zhongli City</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000303</string>
+					<key>TOWN_NA</key>
+					<string>大溪鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Daxi Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000304</string>
+					<key>TOWN_NA</key>
+					<string>楊梅市</string>
+					<key>TOWN_NAE</key>
+					<string>Yangmei City</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000305</string>
+					<key>TOWN_NA</key>
+					<string>蘆竹鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Luzhu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000306</string>
+					<key>TOWN_NA</key>
+					<string>大園鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Dayuan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000307</string>
+					<key>TOWN_NA</key>
+					<string>龜山鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Guishan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000308</string>
+					<key>TOWN_NA</key>
+					<string>八德市</string>
+					<key>TOWN_NAE</key>
+					<string>Bade City</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000309</string>
+					<key>TOWN_NA</key>
+					<string>龍潭鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Longtan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000310</string>
+					<key>TOWN_NA</key>
+					<string>平鎮市</string>
+					<key>TOWN_NAE</key>
+					<string>Pingzhen City</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000311</string>
+					<key>TOWN_NA</key>
+					<string>新屋鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Xinwu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000312</string>
+					<key>TOWN_NA</key>
+					<string>觀音鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Guanyin Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000313</string>
+					<key>TOWN_NA</key>
+					<string>復興鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Fuxing Township</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>COUN_ID</key>
+			<string>10018</string>
+			<key>COUN_NA</key>
+			<string>新竹市</string>
+			<key>COUN_NAE</key>
+			<string>Hsinchu City</string>
+			<key>Town</key>
+			<array>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001801</string>
+					<key>TOWN_NA</key>
+					<string>東區</string>
+					<key>TOWN_NAE</key>
+					<string>East District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001802</string>
+					<key>TOWN_NA</key>
+					<string>北區</string>
+					<key>TOWN_NAE</key>
+					<string>North District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001803</string>
+					<key>TOWN_NA</key>
+					<string>香山區</string>
+					<key>TOWN_NAE</key>
+					<string>Xiangshan District</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>COUN_ID</key>
+			<string>10004</string>
+			<key>COUN_NA</key>
+			<string>新竹縣</string>
+			<key>COUN_NAE</key>
+			<string>Hsinchu County</string>
+			<key>Town</key>
+			<array>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000401</string>
+					<key>TOWN_NA</key>
+					<string>竹北市</string>
+					<key>TOWN_NAE</key>
+					<string>Zhubei City</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000402</string>
+					<key>TOWN_NA</key>
+					<string>竹東鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Zhudong Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000403</string>
+					<key>TOWN_NA</key>
+					<string>新埔鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Xinpu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000404</string>
+					<key>TOWN_NA</key>
+					<string>關西鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Guanxi Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000405</string>
+					<key>TOWN_NA</key>
+					<string>湖口鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Hukou Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000406</string>
+					<key>TOWN_NA</key>
+					<string>新豐鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Xinfeng Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000407</string>
+					<key>TOWN_NA</key>
+					<string>芎林鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Qionglin Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000408</string>
+					<key>TOWN_NA</key>
+					<string>橫山鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Hengshan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000409</string>
+					<key>TOWN_NA</key>
+					<string>北埔鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Beipu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000410</string>
+					<key>TOWN_NA</key>
+					<string>寶山鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Baoshan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000411</string>
+					<key>TOWN_NA</key>
+					<string>峨眉鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Emei Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000412</string>
+					<key>TOWN_NA</key>
+					<string>尖石鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Jianshi Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000413</string>
+					<key>TOWN_NA</key>
+					<string>五峰鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Wufeng Township</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>COUN_ID</key>
+			<string>10005</string>
+			<key>COUN_NA</key>
+			<string>苗栗縣</string>
+			<key>COUN_NAE</key>
+			<string>Miaoli County</string>
+			<key>Town</key>
+			<array>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000501</string>
+					<key>TOWN_NA</key>
+					<string>苗栗市</string>
+					<key>TOWN_NAE</key>
+					<string>Miaoli City</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000502</string>
+					<key>TOWN_NA</key>
+					<string>苑裡鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Yuanli Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000503</string>
+					<key>TOWN_NA</key>
+					<string>通霄鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Tongxiao Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000504</string>
+					<key>TOWN_NA</key>
+					<string>竹南鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Zhunan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000505</string>
+					<key>TOWN_NA</key>
+					<string>頭份鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Toufen Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000506</string>
+					<key>TOWN_NA</key>
+					<string>後龍鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Houlong Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000507</string>
+					<key>TOWN_NA</key>
+					<string>卓蘭鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Zhuolan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000508</string>
+					<key>TOWN_NA</key>
+					<string>大湖鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Dahu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000509</string>
+					<key>TOWN_NA</key>
+					<string>公館鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Gongguan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000510</string>
+					<key>TOWN_NA</key>
+					<string>銅鑼鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Tongluo Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000511</string>
+					<key>TOWN_NA</key>
+					<string>南庄鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Nanzhuang Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000512</string>
+					<key>TOWN_NA</key>
+					<string>頭屋鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Touwu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000513</string>
+					<key>TOWN_NA</key>
+					<string>三義鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Sanyi Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000514</string>
+					<key>TOWN_NA</key>
+					<string>西湖鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Xihu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000515</string>
+					<key>TOWN_NA</key>
+					<string>造橋鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Zaoqiao Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000516</string>
+					<key>TOWN_NA</key>
+					<string>三灣鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Sanwan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000517</string>
+					<key>TOWN_NA</key>
+					<string>獅潭鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Shihtan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000518</string>
+					<key>TOWN_NA</key>
+					<string>泰安鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Tai'an Township</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>COUN_ID</key>
+			<string>10007</string>
+			<key>COUN_NA</key>
+			<string>彰化縣</string>
+			<key>COUN_NAE</key>
+			<string>Changhua County</string>
+			<key>Town</key>
+			<array>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000701</string>
+					<key>TOWN_NA</key>
+					<string>彰化市</string>
+					<key>TOWN_NAE</key>
+					<string>Changhua City</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000702</string>
+					<key>TOWN_NA</key>
+					<string>鹿港鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Lukang Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000703</string>
+					<key>TOWN_NA</key>
+					<string>和美鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Hemei Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000704</string>
+					<key>TOWN_NA</key>
+					<string>線西鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Xianxi Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000705</string>
+					<key>TOWN_NA</key>
+					<string>伸港鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Shengang Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000706</string>
+					<key>TOWN_NA</key>
+					<string>福興鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Fuxing Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000707</string>
+					<key>TOWN_NA</key>
+					<string>秀水鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Xiushui Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000708</string>
+					<key>TOWN_NA</key>
+					<string>花壇鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Huatan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000709</string>
+					<key>TOWN_NA</key>
+					<string>芬園鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Fenyuan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000710</string>
+					<key>TOWN_NA</key>
+					<string>員林鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Yuanlin Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000711</string>
+					<key>TOWN_NA</key>
+					<string>溪湖鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Xihu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000712</string>
+					<key>TOWN_NA</key>
+					<string>田中鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Tianzhong Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000713</string>
+					<key>TOWN_NA</key>
+					<string>大村鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Dacun Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000714</string>
+					<key>TOWN_NA</key>
+					<string>埔鹽鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Puyan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000715</string>
+					<key>TOWN_NA</key>
+					<string>埔心鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Puxin Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000716</string>
+					<key>TOWN_NA</key>
+					<string>永靖鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Yongjing Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000717</string>
+					<key>TOWN_NA</key>
+					<string>社頭鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Shetou Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000718</string>
+					<key>TOWN_NA</key>
+					<string>二水鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Ershui Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000719</string>
+					<key>TOWN_NA</key>
+					<string>北斗鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Beidou Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000720</string>
+					<key>TOWN_NA</key>
+					<string>二林鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Erlin Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000721</string>
+					<key>TOWN_NA</key>
+					<string>田尾鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Tianwei Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000722</string>
+					<key>TOWN_NA</key>
+					<string>埤頭鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Pitou Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000723</string>
+					<key>TOWN_NA</key>
+					<string>芳苑鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Fangyuan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000724</string>
+					<key>TOWN_NA</key>
+					<string>大城鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Dacheng Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000725</string>
+					<key>TOWN_NA</key>
+					<string>竹塘鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Zhutang Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000726</string>
+					<key>TOWN_NA</key>
+					<string>溪州鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Xizhou Township</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>COUN_ID</key>
+			<string>66000</string>
+			<key>COUN_NA</key>
+			<string>台中市</string>
+			<key>COUN_NAE</key>
+			<string>Taichung City</string>
+			<key>Town</key>
+			<array>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600001</string>
+					<key>TOWN_NA</key>
+					<string>中區</string>
+					<key>TOWN_NAE</key>
+					<string>Central District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600002</string>
+					<key>TOWN_NA</key>
+					<string>東區</string>
+					<key>TOWN_NAE</key>
+					<string>East District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600003</string>
+					<key>TOWN_NA</key>
+					<string>南區</string>
+					<key>TOWN_NAE</key>
+					<string>South District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600004</string>
+					<key>TOWN_NA</key>
+					<string>西區</string>
+					<key>TOWN_NAE</key>
+					<string>West District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600005</string>
+					<key>TOWN_NA</key>
+					<string>北區</string>
+					<key>TOWN_NAE</key>
+					<string>North District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600006</string>
+					<key>TOWN_NA</key>
+					<string>西屯區</string>
+					<key>TOWN_NAE</key>
+					<string>Xitun District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600007</string>
+					<key>TOWN_NA</key>
+					<string>南屯區</string>
+					<key>TOWN_NAE</key>
+					<string>Nantun District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600008</string>
+					<key>TOWN_NA</key>
+					<string>北屯區</string>
+					<key>TOWN_NAE</key>
+					<string>Beitun District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600009</string>
+					<key>TOWN_NA</key>
+					<string>豐原區</string>
+					<key>TOWN_NAE</key>
+					<string>Fengyuan District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600010</string>
+					<key>TOWN_NA</key>
+					<string>東勢區</string>
+					<key>TOWN_NAE</key>
+					<string>Dongshi District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600011</string>
+					<key>TOWN_NA</key>
+					<string>大甲區</string>
+					<key>TOWN_NAE</key>
+					<string>Dajia District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600012</string>
+					<key>TOWN_NA</key>
+					<string>清水區</string>
+					<key>TOWN_NAE</key>
+					<string>Qingshui District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600013</string>
+					<key>TOWN_NA</key>
+					<string>沙鹿區</string>
+					<key>TOWN_NAE</key>
+					<string>Shalu District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600014</string>
+					<key>TOWN_NA</key>
+					<string>梧棲區</string>
+					<key>TOWN_NAE</key>
+					<string>Wuqi District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600015</string>
+					<key>TOWN_NA</key>
+					<string>后里區</string>
+					<key>TOWN_NAE</key>
+					<string>Houli District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600016</string>
+					<key>TOWN_NA</key>
+					<string>神岡區</string>
+					<key>TOWN_NAE</key>
+					<string>Shengang District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600017</string>
+					<key>TOWN_NA</key>
+					<string>潭子區</string>
+					<key>TOWN_NAE</key>
+					<string>Tanzi District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600018</string>
+					<key>TOWN_NA</key>
+					<string>大雅區</string>
+					<key>TOWN_NAE</key>
+					<string>Daya District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600019</string>
+					<key>TOWN_NA</key>
+					<string>新社區</string>
+					<key>TOWN_NAE</key>
+					<string>Xinshe District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600020</string>
+					<key>TOWN_NA</key>
+					<string>石岡區</string>
+					<key>TOWN_NAE</key>
+					<string>Shihgang District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600021</string>
+					<key>TOWN_NA</key>
+					<string>外埔區</string>
+					<key>TOWN_NAE</key>
+					<string>Waipu District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600022</string>
+					<key>TOWN_NA</key>
+					<string>大安區</string>
+					<key>TOWN_NAE</key>
+					<string>Da'an District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600023</string>
+					<key>TOWN_NA</key>
+					<string>烏日區</string>
+					<key>TOWN_NAE</key>
+					<string>Wuri District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600024</string>
+					<key>TOWN_NA</key>
+					<string>大肚區</string>
+					<key>TOWN_NAE</key>
+					<string>Dadu District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600025</string>
+					<key>TOWN_NA</key>
+					<string>龍井區</string>
+					<key>TOWN_NAE</key>
+					<string>Longjing District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600026</string>
+					<key>TOWN_NA</key>
+					<string>霧峰區</string>
+					<key>TOWN_NAE</key>
+					<string>Wufeng District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600027</string>
+					<key>TOWN_NA</key>
+					<string>太平區</string>
+					<key>TOWN_NAE</key>
+					<string>Taiping District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600028</string>
+					<key>TOWN_NA</key>
+					<string>大里區</string>
+					<key>TOWN_NAE</key>
+					<string>Dali District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6600029</string>
+					<key>TOWN_NA</key>
+					<string>和平區</string>
+					<key>TOWN_NAE</key>
+					<string>Heping District</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>COUN_ID</key>
+			<string>10008</string>
+			<key>COUN_NA</key>
+			<string>南投縣</string>
+			<key>COUN_NAE</key>
+			<string>Nantou County</string>
+			<key>Town</key>
+			<array>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000801</string>
+					<key>TOWN_NA</key>
+					<string>南投市</string>
+					<key>TOWN_NAE</key>
+					<string>Nantou City</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000802</string>
+					<key>TOWN_NA</key>
+					<string>埔里鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Puli Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000803</string>
+					<key>TOWN_NA</key>
+					<string>草屯鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Caotun Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000804</string>
+					<key>TOWN_NA</key>
+					<string>竹山鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Zhushan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000805</string>
+					<key>TOWN_NA</key>
+					<string>集集鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Jiji Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000806</string>
+					<key>TOWN_NA</key>
+					<string>名間鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Mingjian Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000807</string>
+					<key>TOWN_NA</key>
+					<string>鹿谷鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Lugu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000808</string>
+					<key>TOWN_NA</key>
+					<string>中寮鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Zhongliao Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000809</string>
+					<key>TOWN_NA</key>
+					<string>魚池鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Yuchi Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000810</string>
+					<key>TOWN_NA</key>
+					<string>國姓鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Guoxing Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000811</string>
+					<key>TOWN_NA</key>
+					<string>水里鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Shuili Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000812</string>
+					<key>TOWN_NA</key>
+					<string>信義鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Xinyi Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000813</string>
+					<key>TOWN_NA</key>
+					<string>仁愛鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Ren'ai Township</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>COUN_ID</key>
+			<string>10009</string>
+			<key>COUN_NA</key>
+			<string>雲林縣</string>
+			<key>COUN_NAE</key>
+			<string>Yunlin County</string>
+			<key>Town</key>
+			<array>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000901</string>
+					<key>TOWN_NA</key>
+					<string>斗六市</string>
+					<key>TOWN_NAE</key>
+					<string>Douliu City</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000902</string>
+					<key>TOWN_NA</key>
+					<string>斗南鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Dounan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000903</string>
+					<key>TOWN_NA</key>
+					<string>虎尾鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Huwei Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000904</string>
+					<key>TOWN_NA</key>
+					<string>西螺鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Xiluo Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000905</string>
+					<key>TOWN_NA</key>
+					<string>土庫鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Tuku Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000906</string>
+					<key>TOWN_NA</key>
+					<string>北港鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Beigang Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000907</string>
+					<key>TOWN_NA</key>
+					<string>古坑鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Gukeng Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000908</string>
+					<key>TOWN_NA</key>
+					<string>大埤鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Dapi Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000909</string>
+					<key>TOWN_NA</key>
+					<string>莿桐鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Citong Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000910</string>
+					<key>TOWN_NA</key>
+					<string>林內鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Linnei Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000911</string>
+					<key>TOWN_NA</key>
+					<string>二崙鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Erlun Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000912</string>
+					<key>TOWN_NA</key>
+					<string>崙背鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Lunbei Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000913</string>
+					<key>TOWN_NA</key>
+					<string>麥寮鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Mailiao Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000914</string>
+					<key>TOWN_NA</key>
+					<string>東勢鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Dongshi Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000915</string>
+					<key>TOWN_NA</key>
+					<string>褒忠鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Baozhong Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000916</string>
+					<key>TOWN_NA</key>
+					<string>台西鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Taixi Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000917</string>
+					<key>TOWN_NA</key>
+					<string>元長鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Yuanchang Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000918</string>
+					<key>TOWN_NA</key>
+					<string>四湖鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Sihu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000919</string>
+					<key>TOWN_NA</key>
+					<string>口湖鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Kouhu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1000920</string>
+					<key>TOWN_NA</key>
+					<string>水林鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Shuilin Township</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>COUN_ID</key>
+			<string>10020</string>
+			<key>COUN_NA</key>
+			<string>嘉義市</string>
+			<key>COUN_NAE</key>
+			<string>Chiayi City</string>
+			<key>Town</key>
+			<array>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1002001</string>
+					<key>TOWN_NA</key>
+					<string>東區</string>
+					<key>TOWN_NAE</key>
+					<string>East District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1002002</string>
+					<key>TOWN_NA</key>
+					<string>西區</string>
+					<key>TOWN_NAE</key>
+					<string>West District</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>COUN_ID</key>
+			<string>10010</string>
+			<key>COUN_NA</key>
+			<string>嘉義縣</string>
+			<key>COUN_NAE</key>
+			<string>Chiayi County</string>
+			<key>Town</key>
+			<array>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001001</string>
+					<key>TOWN_NA</key>
+					<string>太保市</string>
+					<key>TOWN_NAE</key>
+					<string>Taibao City</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001002</string>
+					<key>TOWN_NA</key>
+					<string>朴子市</string>
+					<key>TOWN_NAE</key>
+					<string>Puzi City</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001003</string>
+					<key>TOWN_NA</key>
+					<string>布袋鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Budai Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001004</string>
+					<key>TOWN_NA</key>
+					<string>大林鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Dalin Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001005</string>
+					<key>TOWN_NA</key>
+					<string>民雄鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Minxiong Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001006</string>
+					<key>TOWN_NA</key>
+					<string>溪口鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Xikou Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001007</string>
+					<key>TOWN_NA</key>
+					<string>新港鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Xingang Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001008</string>
+					<key>TOWN_NA</key>
+					<string>六腳鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Lioujiao Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001009</string>
+					<key>TOWN_NA</key>
+					<string>東石鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Dongshi Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001010</string>
+					<key>TOWN_NA</key>
+					<string>義竹鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Yizhu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001011</string>
+					<key>TOWN_NA</key>
+					<string>鹿草鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Lucao Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001012</string>
+					<key>TOWN_NA</key>
+					<string>水上鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Shuishang Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001013</string>
+					<key>TOWN_NA</key>
+					<string>中埔鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Zhongpu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001014</string>
+					<key>TOWN_NA</key>
+					<string>竹崎鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Zhuqi Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001015</string>
+					<key>TOWN_NA</key>
+					<string>梅山鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Meishan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001016</string>
+					<key>TOWN_NA</key>
+					<string>番路鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Fanlu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001017</string>
+					<key>TOWN_NA</key>
+					<string>大埔鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Dapu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001018</string>
+					<key>TOWN_NA</key>
+					<string>阿里山鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Alishan Township</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>COUN_ID</key>
+			<string>67000</string>
+			<key>COUN_NA</key>
+			<string>台南市</string>
+			<key>COUN_NAE</key>
+			<string>Tainan City</string>
+			<key>Town</key>
+			<array>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700001</string>
+					<key>TOWN_NA</key>
+					<string>新營區</string>
+					<key>TOWN_NAE</key>
+					<string>Xinying District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700002</string>
+					<key>TOWN_NA</key>
+					<string>鹽水區</string>
+					<key>TOWN_NAE</key>
+					<string>Yanshui District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700003</string>
+					<key>TOWN_NA</key>
+					<string>白河區</string>
+					<key>TOWN_NAE</key>
+					<string>Baihe District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700004</string>
+					<key>TOWN_NA</key>
+					<string>柳營區</string>
+					<key>TOWN_NAE</key>
+					<string>Liuying District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700005</string>
+					<key>TOWN_NA</key>
+					<string>後壁區</string>
+					<key>TOWN_NAE</key>
+					<string>Houbi District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700006</string>
+					<key>TOWN_NA</key>
+					<string>東山區</string>
+					<key>TOWN_NAE</key>
+					<string>Dongshan District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700007</string>
+					<key>TOWN_NA</key>
+					<string>麻豆區</string>
+					<key>TOWN_NAE</key>
+					<string>Madou District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700008</string>
+					<key>TOWN_NA</key>
+					<string>下營區</string>
+					<key>TOWN_NAE</key>
+					<string>Xiaying District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700009</string>
+					<key>TOWN_NA</key>
+					<string>六甲區</string>
+					<key>TOWN_NAE</key>
+					<string>Liujia District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700010</string>
+					<key>TOWN_NA</key>
+					<string>官田區</string>
+					<key>TOWN_NAE</key>
+					<string>Guantian District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700011</string>
+					<key>TOWN_NA</key>
+					<string>大內區</string>
+					<key>TOWN_NAE</key>
+					<string>Danei District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700012</string>
+					<key>TOWN_NA</key>
+					<string>佳里區</string>
+					<key>TOWN_NAE</key>
+					<string>Jiali District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700013</string>
+					<key>TOWN_NA</key>
+					<string>學甲區</string>
+					<key>TOWN_NAE</key>
+					<string>Xuejia District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700014</string>
+					<key>TOWN_NA</key>
+					<string>西港區</string>
+					<key>TOWN_NAE</key>
+					<string>Xigang District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700015</string>
+					<key>TOWN_NA</key>
+					<string>七股區</string>
+					<key>TOWN_NAE</key>
+					<string>Qigu District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700016</string>
+					<key>TOWN_NA</key>
+					<string>將軍區</string>
+					<key>TOWN_NAE</key>
+					<string>Jiangjun District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700017</string>
+					<key>TOWN_NA</key>
+					<string>北門區</string>
+					<key>TOWN_NAE</key>
+					<string>Beimen District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700018</string>
+					<key>TOWN_NA</key>
+					<string>新化區</string>
+					<key>TOWN_NAE</key>
+					<string>Xinhua District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700019</string>
+					<key>TOWN_NA</key>
+					<string>善化區</string>
+					<key>TOWN_NAE</key>
+					<string>Shanhua District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700020</string>
+					<key>TOWN_NA</key>
+					<string>新市區</string>
+					<key>TOWN_NAE</key>
+					<string>Xinshi District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700021</string>
+					<key>TOWN_NA</key>
+					<string>安定區</string>
+					<key>TOWN_NAE</key>
+					<string>Anding District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700022</string>
+					<key>TOWN_NA</key>
+					<string>山上區</string>
+					<key>TOWN_NAE</key>
+					<string>Shanshang District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700023</string>
+					<key>TOWN_NA</key>
+					<string>玉井區</string>
+					<key>TOWN_NAE</key>
+					<string>Yujing District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700024</string>
+					<key>TOWN_NA</key>
+					<string>楠西區</string>
+					<key>TOWN_NAE</key>
+					<string>Nanxi District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700025</string>
+					<key>TOWN_NA</key>
+					<string>南化區</string>
+					<key>TOWN_NAE</key>
+					<string>Nanhua District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700026</string>
+					<key>TOWN_NA</key>
+					<string>左鎮區</string>
+					<key>TOWN_NAE</key>
+					<string>Zuozhen District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700027</string>
+					<key>TOWN_NA</key>
+					<string>仁德區</string>
+					<key>TOWN_NAE</key>
+					<string>Rende District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700028</string>
+					<key>TOWN_NA</key>
+					<string>歸仁區</string>
+					<key>TOWN_NAE</key>
+					<string>Guiren District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700029</string>
+					<key>TOWN_NA</key>
+					<string>關廟區</string>
+					<key>TOWN_NAE</key>
+					<string>Guanmiao District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700030</string>
+					<key>TOWN_NA</key>
+					<string>龍崎區</string>
+					<key>TOWN_NAE</key>
+					<string>Longqi District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700031</string>
+					<key>TOWN_NA</key>
+					<string>永康區</string>
+					<key>TOWN_NAE</key>
+					<string>Yongkang District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700032</string>
+					<key>TOWN_NA</key>
+					<string>東區</string>
+					<key>TOWN_NAE</key>
+					<string>East District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700033</string>
+					<key>TOWN_NA</key>
+					<string>南區</string>
+					<key>TOWN_NAE</key>
+					<string>South District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700034</string>
+					<key>TOWN_NA</key>
+					<string>北區</string>
+					<key>TOWN_NAE</key>
+					<string>North District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700037</string>
+					<key>TOWN_NA</key>
+					<string>中西區</string>
+					<key>TOWN_NAE</key>
+					<string>West Central District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700035</string>
+					<key>TOWN_NA</key>
+					<string>安南區</string>
+					<key>TOWN_NAE</key>
+					<string>Annan District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6700036</string>
+					<key>TOWN_NA</key>
+					<string>安平區</string>
+					<key>TOWN_NAE</key>
+					<string>Anping District</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>COUN_ID</key>
+			<string>64000</string>
+			<key>COUN_NA</key>
+			<string>高雄市</string>
+			<key>COUN_NAE</key>
+			<string>Kaohsiung City</string>
+			<key>Town</key>
+			<array>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400100</string>
+					<key>TOWN_NA</key>
+					<string>鹽埕區</string>
+					<key>TOWN_NAE</key>
+					<string>Yancheng District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400200</string>
+					<key>TOWN_NA</key>
+					<string>鼓山區</string>
+					<key>TOWN_NAE</key>
+					<string>Gushan District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400300</string>
+					<key>TOWN_NA</key>
+					<string>左營區</string>
+					<key>TOWN_NAE</key>
+					<string>Zuoying District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400400</string>
+					<key>TOWN_NA</key>
+					<string>楠梓區</string>
+					<key>TOWN_NAE</key>
+					<string>Nanzi District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400500</string>
+					<key>TOWN_NA</key>
+					<string>三民區</string>
+					<key>TOWN_NAE</key>
+					<string>Sanmin District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400600</string>
+					<key>TOWN_NA</key>
+					<string>新興區</string>
+					<key>TOWN_NAE</key>
+					<string>Xinxing District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400700</string>
+					<key>TOWN_NA</key>
+					<string>前金區</string>
+					<key>TOWN_NAE</key>
+					<string>Qianjin District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400800</string>
+					<key>TOWN_NA</key>
+					<string>苓雅區</string>
+					<key>TOWN_NAE</key>
+					<string>Lingya District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400900</string>
+					<key>TOWN_NA</key>
+					<string>前鎮區</string>
+					<key>TOWN_NAE</key>
+					<string>Qianzhen District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6401000</string>
+					<key>TOWN_NA</key>
+					<string>旗津區</string>
+					<key>TOWN_NAE</key>
+					<string>Qijin District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6401100</string>
+					<key>TOWN_NA</key>
+					<string>小港區</string>
+					<key>TOWN_NAE</key>
+					<string>Xiaogang District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400012</string>
+					<key>TOWN_NA</key>
+					<string>鳳山區</string>
+					<key>TOWN_NAE</key>
+					<string>Fengshan District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400013</string>
+					<key>TOWN_NA</key>
+					<string>林園區</string>
+					<key>TOWN_NAE</key>
+					<string>Linyuan District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400014</string>
+					<key>TOWN_NA</key>
+					<string>大寮區</string>
+					<key>TOWN_NAE</key>
+					<string>Daliao District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400015</string>
+					<key>TOWN_NA</key>
+					<string>大樹區</string>
+					<key>TOWN_NAE</key>
+					<string>Dashu District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400016</string>
+					<key>TOWN_NA</key>
+					<string>大社區</string>
+					<key>TOWN_NAE</key>
+					<string>Dashe District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400017</string>
+					<key>TOWN_NA</key>
+					<string>仁武區</string>
+					<key>TOWN_NAE</key>
+					<string>Renwu District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400018</string>
+					<key>TOWN_NA</key>
+					<string>鳥松區</string>
+					<key>TOWN_NAE</key>
+					<string>Niaosong District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400019</string>
+					<key>TOWN_NA</key>
+					<string>岡山區</string>
+					<key>TOWN_NAE</key>
+					<string>Gangshan District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400020</string>
+					<key>TOWN_NA</key>
+					<string>橋頭區</string>
+					<key>TOWN_NAE</key>
+					<string>Qiaotou District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400021</string>
+					<key>TOWN_NA</key>
+					<string>燕巢區</string>
+					<key>TOWN_NAE</key>
+					<string>Yanchao District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400022</string>
+					<key>TOWN_NA</key>
+					<string>田寮區</string>
+					<key>TOWN_NAE</key>
+					<string>Tianliao District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400023</string>
+					<key>TOWN_NA</key>
+					<string>阿蓮區</string>
+					<key>TOWN_NAE</key>
+					<string>Alian District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400024</string>
+					<key>TOWN_NA</key>
+					<string>路竹區</string>
+					<key>TOWN_NAE</key>
+					<string>Luzhu District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400025</string>
+					<key>TOWN_NA</key>
+					<string>湖內區</string>
+					<key>TOWN_NAE</key>
+					<string>Hunei District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400026</string>
+					<key>TOWN_NA</key>
+					<string>茄萣區</string>
+					<key>TOWN_NAE</key>
+					<string>Qieding District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400027</string>
+					<key>TOWN_NA</key>
+					<string>永安區</string>
+					<key>TOWN_NAE</key>
+					<string>Yong'an District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400028</string>
+					<key>TOWN_NA</key>
+					<string>彌陀區</string>
+					<key>TOWN_NAE</key>
+					<string>Mituo District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400029</string>
+					<key>TOWN_NA</key>
+					<string>梓官區</string>
+					<key>TOWN_NAE</key>
+					<string>Ziguan District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400030</string>
+					<key>TOWN_NA</key>
+					<string>旗山區</string>
+					<key>TOWN_NAE</key>
+					<string>Qishan District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400031</string>
+					<key>TOWN_NA</key>
+					<string>美濃區</string>
+					<key>TOWN_NAE</key>
+					<string>Meinong District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400032</string>
+					<key>TOWN_NA</key>
+					<string>六龜區</string>
+					<key>TOWN_NAE</key>
+					<string>Liugui District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400033</string>
+					<key>TOWN_NA</key>
+					<string>甲仙區</string>
+					<key>TOWN_NAE</key>
+					<string>Jiaxian District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400034</string>
+					<key>TOWN_NA</key>
+					<string>杉林區</string>
+					<key>TOWN_NAE</key>
+					<string>Shanlin District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400035</string>
+					<key>TOWN_NA</key>
+					<string>內門區</string>
+					<key>TOWN_NAE</key>
+					<string>Neimen District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400036</string>
+					<key>TOWN_NA</key>
+					<string>茂林區</string>
+					<key>TOWN_NAE</key>
+					<string>Maolin District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400037</string>
+					<key>TOWN_NA</key>
+					<string>桃源區</string>
+					<key>TOWN_NAE</key>
+					<string>Taoyuan District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>6400038</string>
+					<key>TOWN_NA</key>
+					<string>那瑪夏區</string>
+					<key>TOWN_NAE</key>
+					<string>Namaxia District</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>COUN_ID</key>
+			<string>10013</string>
+			<key>COUN_NA</key>
+			<string>屏東縣</string>
+			<key>COUN_NAE</key>
+			<string>Pingtung County</string>
+			<key>Town</key>
+			<array>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001301</string>
+					<key>TOWN_NA</key>
+					<string>屏東市</string>
+					<key>TOWN_NAE</key>
+					<string>Pingtung City</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001302</string>
+					<key>TOWN_NA</key>
+					<string>潮州鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Chaozhou Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001303</string>
+					<key>TOWN_NA</key>
+					<string>東港鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Donggang Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001304</string>
+					<key>TOWN_NA</key>
+					<string>恆春鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Hengchun Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001305</string>
+					<key>TOWN_NA</key>
+					<string>萬丹鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Wandan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001306</string>
+					<key>TOWN_NA</key>
+					<string>長治鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Changzhi Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001307</string>
+					<key>TOWN_NA</key>
+					<string>麟洛鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Linluo Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001308</string>
+					<key>TOWN_NA</key>
+					<string>九如鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Jiuru Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001309</string>
+					<key>TOWN_NA</key>
+					<string>里港鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Ligang Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001310</string>
+					<key>TOWN_NA</key>
+					<string>鹽埔鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Yanpu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001311</string>
+					<key>TOWN_NA</key>
+					<string>高樹鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Gaoshu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001312</string>
+					<key>TOWN_NA</key>
+					<string>萬巒鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Wanluan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001313</string>
+					<key>TOWN_NA</key>
+					<string>內埔鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Neipu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001314</string>
+					<key>TOWN_NA</key>
+					<string>竹田鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Zhutian Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001315</string>
+					<key>TOWN_NA</key>
+					<string>新埤鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Xinpi Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001316</string>
+					<key>TOWN_NA</key>
+					<string>枋寮鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Fangliao Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001317</string>
+					<key>TOWN_NA</key>
+					<string>新園鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Xinyuan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001318</string>
+					<key>TOWN_NA</key>
+					<string>崁頂鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Kanding Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001319</string>
+					<key>TOWN_NA</key>
+					<string>林邊鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Linbian Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001320</string>
+					<key>TOWN_NA</key>
+					<string>南州鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Nanzhou Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001321</string>
+					<key>TOWN_NA</key>
+					<string>佳冬鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Jiadong Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001322</string>
+					<key>TOWN_NA</key>
+					<string>琉球鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Liouciou Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001323</string>
+					<key>TOWN_NA</key>
+					<string>車城鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Checheng Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001324</string>
+					<key>TOWN_NA</key>
+					<string>滿州鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Manzhou Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001325</string>
+					<key>TOWN_NA</key>
+					<string>枋山鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Fangshan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001326</string>
+					<key>TOWN_NA</key>
+					<string>三地門鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Sandimen Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001327</string>
+					<key>TOWN_NA</key>
+					<string>霧台鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Wutai Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001328</string>
+					<key>TOWN_NA</key>
+					<string>瑪家鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Majia Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001329</string>
+					<key>TOWN_NA</key>
+					<string>泰武鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Taiwu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001330</string>
+					<key>TOWN_NA</key>
+					<string>來義鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Laiyi Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001331</string>
+					<key>TOWN_NA</key>
+					<string>春日鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Chunri Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001332</string>
+					<key>TOWN_NA</key>
+					<string>獅子鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Shizi Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001333</string>
+					<key>TOWN_NA</key>
+					<string>牡丹鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Mudan Township</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>COUN_ID</key>
+			<string>10014</string>
+			<key>COUN_NA</key>
+			<string>台東縣</string>
+			<key>COUN_NAE</key>
+			<string>Taitung County</string>
+			<key>Town</key>
+			<array>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001401</string>
+					<key>TOWN_NA</key>
+					<string>台東市</string>
+					<key>TOWN_NAE</key>
+					<string>Taidong City</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001402</string>
+					<key>TOWN_NA</key>
+					<string>成功鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Chenggong Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001403</string>
+					<key>TOWN_NA</key>
+					<string>關山鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Guanshan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001404</string>
+					<key>TOWN_NA</key>
+					<string>卑南鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Beinan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001405</string>
+					<key>TOWN_NA</key>
+					<string>鹿野鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Luye Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001406</string>
+					<key>TOWN_NA</key>
+					<string>池上鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Chishang Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001407</string>
+					<key>TOWN_NA</key>
+					<string>東河鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Donghe Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001408</string>
+					<key>TOWN_NA</key>
+					<string>長濱鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Changbin Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001409</string>
+					<key>TOWN_NA</key>
+					<string>太麻里鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Taimali Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001410</string>
+					<key>TOWN_NA</key>
+					<string>大武鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Dawu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001411</string>
+					<key>TOWN_NA</key>
+					<string>綠島鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Ludao Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001412</string>
+					<key>TOWN_NA</key>
+					<string>海端鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Haiduan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001413</string>
+					<key>TOWN_NA</key>
+					<string>延平鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Yanping Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001414</string>
+					<key>TOWN_NA</key>
+					<string>金峰鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Jinfeng Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001415</string>
+					<key>TOWN_NA</key>
+					<string>達仁鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Daren Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001416</string>
+					<key>TOWN_NA</key>
+					<string>蘭嶼鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Lanyu Township</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>COUN_ID</key>
+			<string>10015</string>
+			<key>COUN_NA</key>
+			<string>花蓮縣</string>
+			<key>COUN_NAE</key>
+			<string>Hualien County</string>
+			<key>Town</key>
+			<array>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001501</string>
+					<key>TOWN_NA</key>
+					<string>花蓮市</string>
+					<key>TOWN_NAE</key>
+					<string>Hualian City</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001502</string>
+					<key>TOWN_NA</key>
+					<string>鳳林鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Fenglin Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001503</string>
+					<key>TOWN_NA</key>
+					<string>玉里鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Yuli Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001504</string>
+					<key>TOWN_NA</key>
+					<string>新城鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Xincheng Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001505</string>
+					<key>TOWN_NA</key>
+					<string>吉安鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Ji'an Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001506</string>
+					<key>TOWN_NA</key>
+					<string>壽豐鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Shoufeng Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001507</string>
+					<key>TOWN_NA</key>
+					<string>光復鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Guangfu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001508</string>
+					<key>TOWN_NA</key>
+					<string>豐濱鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Fengbin Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001509</string>
+					<key>TOWN_NA</key>
+					<string>瑞穗鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Ruisui Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001510</string>
+					<key>TOWN_NA</key>
+					<string>富里鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Fuli Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001511</string>
+					<key>TOWN_NA</key>
+					<string>秀林鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Xioulin Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001512</string>
+					<key>TOWN_NA</key>
+					<string>萬榮鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Wanrong Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001513</string>
+					<key>TOWN_NA</key>
+					<string>卓溪鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Zhuoxi Township</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>COUN_ID</key>
+			<string>10016</string>
+			<key>COUN_NA</key>
+			<string>澎湖縣</string>
+			<key>COUN_NAE</key>
+			<string>Penghu County</string>
+			<key>Town</key>
+			<array>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001601</string>
+					<key>TOWN_NA</key>
+					<string>馬公市</string>
+					<key>TOWN_NAE</key>
+					<string>Magong City</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001602</string>
+					<key>TOWN_NA</key>
+					<string>湖西鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Huxi Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001603</string>
+					<key>TOWN_NA</key>
+					<string>白沙鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Baisha Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001604</string>
+					<key>TOWN_NA</key>
+					<string>西嶼鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Xiyu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001605</string>
+					<key>TOWN_NA</key>
+					<string>望安鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Wang'an Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001606</string>
+					<key>TOWN_NA</key>
+					<string>七美鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Qimei Township</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>COUN_ID</key>
+			<string>10017</string>
+			<key>COUN_NA</key>
+			<string>基隆市</string>
+			<key>COUN_NAE</key>
+			<string>Keelung City</string>
+			<key>Town</key>
+			<array>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001701</string>
+					<key>TOWN_NA</key>
+					<string>中正區</string>
+					<key>TOWN_NAE</key>
+					<string>Zhongzheng District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001702</string>
+					<key>TOWN_NA</key>
+					<string>七堵區</string>
+					<key>TOWN_NAE</key>
+					<string>Qidu District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001703</string>
+					<key>TOWN_NA</key>
+					<string>暖暖區</string>
+					<key>TOWN_NAE</key>
+					<string>Nuannuan District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001704</string>
+					<key>TOWN_NA</key>
+					<string>仁愛區</string>
+					<key>TOWN_NAE</key>
+					<string>Ren'ai District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001705</string>
+					<key>TOWN_NA</key>
+					<string>中山區</string>
+					<key>TOWN_NAE</key>
+					<string>Zhongzhan District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001706</string>
+					<key>TOWN_NA</key>
+					<string>安樂區</string>
+					<key>TOWN_NAE</key>
+					<string>Anle District</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>1001707</string>
+					<key>TOWN_NA</key>
+					<string>信義區</string>
+					<key>TOWN_NAE</key>
+					<string>Xinyi District</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>COUN_ID</key>
+			<string>9007</string>
+			<key>COUN_NA</key>
+			<string>連江縣</string>
+			<key>COUN_NAE</key>
+			<string>Lienchiang County</string>
+			<key>Town</key>
+			<array>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>900701</string>
+					<key>TOWN_NA</key>
+					<string>南竿鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Nangan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>900702</string>
+					<key>TOWN_NA</key>
+					<string>北竿鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Beigan Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>900703</string>
+					<key>TOWN_NA</key>
+					<string>莒光鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Juguang Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>900704</string>
+					<key>TOWN_NA</key>
+					<string>東引鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Dongyin Township</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>COUN_ID</key>
+			<string>9020</string>
+			<key>COUN_NA</key>
+			<string>金門縣</string>
+			<key>COUN_NAE</key>
+			<string>Kinmen County</string>
+			<key>Town</key>
+			<array>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>902001</string>
+					<key>TOWN_NA</key>
+					<string>金城鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Jincheng Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>902002</string>
+					<key>TOWN_NA</key>
+					<string>金沙鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Jinsha Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>902003</string>
+					<key>TOWN_NA</key>
+					<string>金湖鎮</string>
+					<key>TOWN_NAE</key>
+					<string>Jinhu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>902004</string>
+					<key>TOWN_NA</key>
+					<string>金寧鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Jinning Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>902005</string>
+					<key>TOWN_NA</key>
+					<string>烈嶼鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Lieyu Township</string>
+				</dict>
+				<dict>
+					<key>TOWN_ID</key>
+					<string>902006</string>
+					<key>TOWN_NA</key>
+					<string>烏坵鄉</string>
+					<key>TOWN_NAE</key>
+					<string>Wuqiu Township</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

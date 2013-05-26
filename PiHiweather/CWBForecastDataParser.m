@@ -38,13 +38,11 @@ const NSString *WEEKDAY_XML_POSTFIX = @"_Weekday_CH.xml";
     NSURLRequest *request = [NSURLRequest requestWithURL:[NSURL URLWithString:xmlPath]];
     __block AFHTTPRequestOperation *operation = [[AFHTTPRequestOperation alloc] initWithRequest:request];
     __block CWBForecastDataParser *tempSelf = self;
-    operation.completionBlock = ^ {
+     operation.completionBlock = ^ {
         if ([operation hasAcceptableStatusCode]) {
             NSString *responseString = [[NSString alloc] initWithData:operation.responseData encoding:NSUTF8StringEncoding];
-            NSLog(@"success %@", responseString);
+
             [tempSelf parseXMLFromResponseString:responseString];
-        } else {
-            NSLog(@"statusCode = %d", [operation.response statusCode]);
         }
     };
     
@@ -56,15 +54,12 @@ const NSString *WEEKDAY_XML_POSTFIX = @"_Weekday_CH.xml";
     NSError *error;
     GDataXMLDocument *doc = [[GDataXMLDocument alloc] initWithXMLString:responseString                                                         options:0 error:&error];
     
-    if (doc == nil) {
-        NSLog(@"Parse xml failed");
-    } else {
-        NSLog(@"Parse xml successful, %@", doc.rootElement );
+    if (nil!= doc) {
         NSArray *countyList = [doc.rootElement nodesForXPath:@"//TownWeekdaysForecast/ForecastData/County" error:nil];
         NSMutableArray *forecastDataList = [[NSMutableArray alloc] init];
         
         GDataXMLElement *countyElement = [countyList lastObject];
-        NSLog(@"Parse xml county =  %@", [[countyElement attributeForName:@"CountyID"] stringValue]);
+        
         NSString *countyID = [[countyElement attributeForName:@"CountyID"] stringValue];
         
         NSArray *areaList = [countyElement elementsForName:@"Area"];

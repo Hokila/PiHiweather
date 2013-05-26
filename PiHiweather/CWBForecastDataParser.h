@@ -23,7 +23,7 @@
 
 
 @protocol CWBForecastDataParserDelegate <NSObject>
-
+@required
 -(void)onParseComplete:(NSArray *)result;
 
 @end
